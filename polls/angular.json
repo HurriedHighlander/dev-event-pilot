@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "polls"
+    }
+  },
+  "defaultProject": "polls",
+  "cli": {
+    "analytics": false
+  }
 }
